@@ -1,0 +1,1 @@
+simple oauth authenticator and on successful authentication will diaplay username , email and profile pic of the user.
